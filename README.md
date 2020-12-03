@@ -72,125 +72,127 @@ Group using Machine Learning Applied to Numerical Simulations</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(35).pdf" style="text-decoration:none;">Photo-z with CuBANz: An improved photometric redshift estimator using Clustering aided Back Propagation Neural network</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(36).pdf" style="text-decoration:none;">Latent Variable Modeling with Diversity-Inducing Mutual Angular Regularization</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(36).pdf" style="text-decoration:none;">Analysing the 21cm signal from the Epoch of Reionization with artificial neural networks</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(37).pdf" style="text-decoration:none;">Autoencoding beyond pixels using a learned similarity metric</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(38).pdf" style="text-decoration:none;">Neighborhood-aware autoencoder for missing value imputation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(39).pdf" style="text-decoration:none;">Variational Inference: A Review for Statisticians</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(40).pdf" style="text-decoration:none;">Weakly-supervised Disentangling with Recurrent Transformations for 3D View Synthesis</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(41).pdf" style="text-decoration:none;">How to Train Deep Variational Autoencoders and Probabilistic Ladder Networks</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(42).pdf" style="text-decoration:none;">Generating Images with Perceptual Similarity Metrics based on Deep Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(37).pdf" style="text-decoration:none;">MILCANN :
+A neural network assessed tSZ map for galaxy cluster detection</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(38).pdf" style="text-decoration:none;">CMU DeepLens: Deep Learning For Automatic Image-based Galaxy-Galaxy Strong Lens Finding</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(39).pdf" style="text-decoration:none;">A probabilistic approach to emission-line galaxy classification</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(40).pdf" style="text-decoration:none;">Finding strong lenses in CFHTLS using convolutional neural networks</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(41).pdf" style="text-decoration:none;">CosmoGAN: creating high-fidelity weak lensing convergence maps using Generative Adversarial Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(42).pdf" style="text-decoration:none;">Photometric redshift estimation via deep learning: Generalized and pre-classification-less, image based, fully probabilistic redshifts</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(43).pdf" style="text-decoration:none;">Auxiliary Deep Generative Models</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(44).pdf" style="text-decoration:none;">Variational methods for Conditional Multimodal Deep Learning</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(45).pdf" style="text-decoration:none;">Variational Autoencoder for Semi-supervised Text Classification</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(43).pdf" style="text-decoration:none;">Cosmological model discrimination
+with Deep Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(44).pdf" style="text-decoration:none;">Emulation of reionization simulations for Bayesian inference of astrophysics parameters using neural networks</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(45).pdf" style="text-decoration:none;">Fast Automated Analysis of Strong Gravitational Lenses with Convolutional Neural Networks</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(46).pdf" style="text-decoration:none;">Composing graphical models with neural networks for structured representations and fast inference</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(46).pdf" style="text-decoration:none;">Uncertainties in Parameters Estimated with Neural Networks: Application to Strong Gravitational Lensing</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(47).pdf" style="text-decoration:none;">Attend, Infer, Repeat:
-Fast Scene Understanding with Generative Models</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(48).pdf" style="text-decoration:none;">Stick-Breaking Variational Autoencoders</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(47).pdf" style="text-decoration:none;">Photometric redshifts for the Kilo-Degree Survey: Machine-learning analysis with artificial neural networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(48).pdf" style="text-decoration:none;">Deep Learning of Quasar Spectra to Discover and Characterize Damped Ly	&alpha; Systems</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(49).pdf" style="text-decoration:none;">Discovering Causal Signals in Images</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(49).pdf" style="text-decoration:none;">An automatic taxonomy of galaxy morphology using unsupervised machine learning</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(50).pdf" style="text-decoration:none;">Density estimation using Real NVP</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(51).pdf" style="text-decoration:none;">f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(52).pdf" style="text-decoration:none;">DISCO Nets: DISsimilarity COefficient Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(50).pdf" style="text-decoration:none;">Estimating Photometric Redshifts for X-ray sources in the X-ATLAS field, using machine-learning techniques</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(51).pdf" style="text-decoration:none;">Estimating Cosmological Parameters from the Dark Matter Distribution</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(52).pdf" style="text-decoration:none;">Deep learning Approach for Classifying, Detecting and Predicting Photometric Redshifts of Quasars in the Sloan Digital Sky Survey Stripe 82</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(53).pdf" style="text-decoration:none;">InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(53).pdf" style="text-decoration:none;">Painting galaxies into dark matter halos using machine learning</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(54).pdf" style="text-decoration:none;">Improved Variational Inference with Inverse Autoregressive Flow </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(54).pdf" style="text-decoration:none;">Learning from the machine: interpreting machine learning algorithms for point- and extended- source classification</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(55).pdf" style="text-decoration:none;">Tutorial on Variational Autoencoders</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(55).pdf" style="text-decoration:none;">Modeling the Impact of Baryons on Subhalo Populations with Machine Learning</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(56).pdf" style="text-decoration:none;">Unsupervised Learning of 3D Structure from Images </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(56).pdf" style="text-decoration:none;">Reionization Models Classifier using 21cm Map Deep Learning</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(57).pdf" style="text-decoration:none;">Domain Separation Networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(57).pdf" style="text-decoration:none;">Fast Cosmic Web Simulations with
+Generative Adversarial Networks</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(58).pdf" style="text-decoration:none;">Discrete Variational Autoencoders</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(59).pdf" style="text-decoration:none;">Neural Photo Editing with Introspective Adversarial Networks</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(58).pdf" style="text-decoration:none;">Non-Gaussian information from weak lensing data via deep learning</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(59).pdf" style="text-decoration:none;">Machine learning cosmological structure formation</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(60).pdf" style="text-decoration:none;">Deep Feature Consistent Variational Autoencoder</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(60).pdf" style="text-decoration:none;">Predicting the Neutral Hydrogen Content of Galaxies From Optical Data Using Machine Learning</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(61).pdf" style="text-decoration:none;">Learning What and Where to Draw</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(61).pdf" style="text-decoration:none;">Return of the features: Efficient feature selection and interpretation for photometric redshifts</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(62).pdf" style="text-decoration:none;">Deep Variational Canonical Correlation Analysis</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(62).pdf" style="text-decoration:none;">A Machine Learning Approach to Galaxy-LSS Classification I: Imprints on Halo Merger Trees</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(63).pdf" style="text-decoration:none;">The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(63).pdf" style="text-decoration:none;">Classifying the Large Scale Structure of the Universe with Deep Neural Networks</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(64).pdf" style="text-decoration:none;">Information Dropout: Learning Optimal Representations Through Noisy Computation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(64).pdf" style="text-decoration:none;">Cosmological Reconstruction From
+Galaxy Light: Neural Network Based Light-Matter Connection</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(65).pdf" style="text-decoration:none;">Deep Unsupervised Clustering with Gaussian Mixture Variational Autoencoders</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(65).pdf" style="text-decoration:none;">Deep learning from 21-cm tomography of the Cosmic Dawn and Reionization</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(66).pdf" style="text-decoration:none;">Disentangling factors of variation in deep representations using adversarial training</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(66).pdf" style="text-decoration:none;">A volumetric deep Convolutional Neural Network for simulation of mock dark matter halo catalogues</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(67).pdf" style="text-decoration:none;">PixelVAE: A Latent Variable Model for Natural Images</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(67).pdf" style="text-decoration:none;">Classifying galaxy spectra at 0:5 < z < 1 with self-organizing maps</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(68).pdf" style="text-decoration:none;">Infinite Variational Autoencoder for Semi-Supervised Learning</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(68).pdf" style="text-decoration:none;">An improved cosmological parameter inference scheme motivated by deep learning</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(69).pdf" style="text-decoration:none;">Improving Variational Auto-Encoders using Householder Flow</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(69).pdf" style="text-decoration:none;">Photometric redshifts from SDSS images using a Convolutional Neural Network</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(70).pdf" style="text-decoration:none;">Split-Brain Autoencoders:
-Unsupervised Learning by Cross-Channel Prediction</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(70).pdf" style="text-decoration:none;">Transfer learning for galaxy morphology from one survey to another</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(71).pdf" style="text-decoration:none;">Deep Variational Information Bottleneck</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(71).pdf" style="text-decoration:none;">Weak-lensing shear measurement with machine learning: Teaching artificial neural networks about feature noise</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(72).pdf" style="text-decoration:none;">A Survey of Inductive Biases for Factorial Representation-Learning</a></li> 
- 
- 
- <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(73).pdf" style="text-decoration:none;">Sequential Learning and Regularization in Variational Recurrent Autoencoder</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(74).pdf" style="text-decoration:none;">A General and Adaptive Robust Loss Function</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(75).pdf" style="text-decoration:none;">Adversarial Variational Bayes: Unifying Variational Autoencoders and Generative Adversarial Networks</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(76).pdf" style="text-decoration:none;">Reconstruction-Based Disentanglement for Pose-invariant Face Recognition</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(77).pdf" style="text-decoration:none;">Improved Variational Autoencoders for Text Modeling using Dilated Convolutions</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(72).pdf" style="text-decoration:none;">Identifying Reionization Sources from 21cm Maps using Convolutional Neural Networks</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(78).pdf" style="text-decoration:none;">Learning Hierarchical Features from Generative Models</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(79).pdf" style="text-decoration:none;">Towards a Deeper Understanding of Variational Autoencoding Models</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(73).pdf" style="text-decoration:none;">Testing Convolutional Neural Networks for finding strong gravitational lenses in KiDS</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(74).pdf" style="text-decoration:none;">Cosmological constraints from noisy convergence maps through deep learning</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(75).pdf" style="text-decoration:none;">Analyzing interferometric observations of strong gravitational lenses with recurrent and convolutional neural networks</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(76).pdf" style="text-decoration:none;">CosmoFlow: Using Deep Learning to Learn the Universe at Scale</a></li>
 
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(80).pdf" style="text-decoration:none;">Opening the black box of Deep Neural Networks via Information</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(77).pdf" style="text-decoration:none;">Weak lensing shear estimation beyond the shape-noise limit: a machine learning approach</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(81).pdf" style="text-decoration:none;">Autoencoding Variational Inference For Topic Models</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(82).pdf" style="text-decoration:none;">Nonparametric Variational Auto-encoders for Hierarchical Representation Learning</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(83).pdf" style="text-decoration:none;">It Takes (Only) Two:
-Adversarial Generator-Encoder Networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(84).pdf" style="text-decoration:none;">Reinterpreting Importance-Weighted Autoencoders</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(85).pdf" style="text-decoration:none;">A Neural Representation of Sketch Drawings</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(86).pdf" style="text-decoration:none;">Learning Latent Representations for Speech Generation and Transformation</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(87).pdf" style="text-decoration:none;">VAE with a VampPrior</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(88).pdf" style="text-decoration:none;">VEEGAN: Reducing Mode Collapse in GANs using Implicit Variational Learning</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(89).pdf" style="text-decoration:none;">Causal Effect Inference with Deep Latent-Variable Models</a></li>
-  
-  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(90).pdf" style="text-decoration:none;">Multi-Level Variational Autoencoder: Learning Disentangled Representations from Grouped Observations</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(91).pdf" style="text-decoration:none;">Flow-GAN: Combining Maximum Likelihood and Adversarial Learning in Generative Models</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(92).pdf" style="text-decoration:none;">Discovering Discrete Latent Topics with Neural Variational Inference</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(93).pdf" style="text-decoration:none;"> Fader Networks:
-Manipulating Images by Sliding Attributes</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(94).pdf" style="text-decoration:none;">On Unifying Deep Generative Models</a></li> 
-  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(95).pdf" style="text-decoration:none;">Emergence of Invariance and Disentanglement in Deep Representations</a></li>  
-  
-<li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(96).pdf" style="text-decoration:none;">InfoVAE: Balancing Learning and Inference in Variational Autoencoders</a></li> 
-  
-  
-<li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(97).pdf" style="text-decoration:none;">Variational Approaches for Auto-Encoding Generative Adversarial Networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(78).pdf" style="text-decoration:none;">DeepCMB: Lensing Reconstruction of the Cosmic Microwave Background with Deep Neural Networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(79).pdf" style="text-decoration:none;">A Deep Learning Approach to Galaxy Cluster X-ray Masses</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(98).pdf" style="text-decoration:none;">Hidden Talents of the Variational Autoencoder</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(80).pdf" style="text-decoration:none;">An application of machine learning techniques to galaxy cluster mass estimation using the MACSIS simulations</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(81).pdf" style="text-decoration:none;">On the dissection of degenerate cosmologies with machine learning</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(82).pdf" style="text-decoration:none;">Distinguishing standard and modified gravity cosmologies with machine learning</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(83).pdf" style="text-decoration:none;">Learning to Predict the Cosmological Structure Formation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(84).pdf" style="text-decoration:none;">Evaluating machine learning techniques for predicting power spectra from reionization simulations</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(85).pdf" style="text-decoration:none;">Bayesian emulator optimisation for
+cosmology: application to the Lyman-alpha forest</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(86).pdf" style="text-decoration:none;">Denoising Weak Lensing Mass Maps with Deep Learning</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(87).pdf" style="text-decoration:none;">deepCool: Fast and Accurate Estimation of Cooling Rates in Irradiated Gas with Artificial Neural Networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(88).pdf" style="text-decoration:none;">Data-Driven Reconstruction of Gravitationally Lensed Galaxies using Recurrent Inference Machines</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(89).pdf" style="text-decoration:none;">Classification of Broad Absorption Line Quasars with a Convolutional Neural Network</a></li>
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(99).pdf" style="text-decoration:none;">Symmetric Variational Autoencoder and Connections to Adversarial Learning</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(100).pdf" style="text-decoration:none;">On the challenges of learning with inference networks on sparse, high-dimensional data</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(90).pdf" style="text-decoration:none;">Prediction of Galaxy Halo Masses in SDSS DR7 via a Machine Learning Approach</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(91).pdf" style="text-decoration:none;">Weak lensing cosmology with convolutional neural networks on noisy data</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(92).pdf" style="text-decoration:none;">Convolutional neural networks on the HEALPix sphere: a pixel-based algorithm and its application to CMB data analysis</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(93).pdf" style="text-decoration:none;"> A Robust and Efficient Deep Learning Method for Dynamical Mass Measurements of Galaxy Clusters</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(94).pdf" style="text-decoration:none;">From Dark Matter to Galaxies with Convolutional Networks</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(95).pdf" style="text-decoration:none;">Galaxy shape measurement with convolutional neural networks</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(96).pdf" style="text-decoration:none;">The Role of Machine Learning in the Next
+Decade of Cosmology</a></li> 
+  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(97).pdf" style="text-decoration:none;">Fast likelihood-free cosmology with neural density estimators and active learning</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(98).pdf" style="text-decoration:none;">Painting halos from cosmic density fields of dark matter with physically motivated neural networks</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(99).pdf" style="text-decoration:none;">Machine learning and the physical sciences</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(100).pdf" style="text-decoration:none;">Accelerated Bayesian inference using deep learning</a></li>  
   
  <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(101).pdf" style="text-decoration:none;">Stochastic Variational Video Prediction</a></li> 
   
