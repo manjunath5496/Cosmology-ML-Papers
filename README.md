@@ -127,7 +127,7 @@ Galaxy Light: Neural Network Based Light-Matter Connection</a></li>
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(66).pdf" style="text-decoration:none;">A volumetric deep Convolutional Neural Network for simulation of mock dark matter halo catalogues</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(67).pdf" style="text-decoration:none;">Classifying galaxy spectra at 0:5 < z < 1 with self-organizing maps</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(67).pdf" style="text-decoration:none;">Classifying galaxy spectra at 0.5 < z < 1 with self-organizing maps</a></li>                              
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(68).pdf" style="text-decoration:none;">An improved cosmological parameter inference scheme motivated by deep learning</a></li> 
  
