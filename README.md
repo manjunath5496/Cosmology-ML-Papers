@@ -201,7 +201,7 @@ Decade of Cosmology</a></li>
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(103).pdf" style="text-decoration:none;">Estimating redshift distributions using Hierarchical Logistic Gaussian processes</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(104).pdf" style="text-decoration:none;">Generative deep elds: arbitrarily sized, random synthetic astronomical images through deep learning</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(104).pdf" style="text-decoration:none;">Generative deep fields: arbitrarily sized, random synthetic astronomical images through deep learning</a></li>  
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(105).pdf" style="text-decoration:none;">
 HIGAN: Cosmic Neutral Hydrogen with Generative Adversarial Networks</a></li> 
