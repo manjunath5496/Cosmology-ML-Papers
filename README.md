@@ -16,7 +16,7 @@ Data Mining and Machine Learning in Astronomy</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(6).pdf" style="text-decoration:none;">Unsupervised self-organised mapping: a versatile empirical tool for object selection, classification and redshift estimation in large surveys</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(7).pdf" style="text-decoration:none;">Can Self-Organizing Maps Accurately Predict Photometric Redshifts?</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(8).pdf" style="text-decoration:none;"> PkANN { I. Non-linear matter power spectrum interpolation through artificial neural networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(8).pdf" style="text-decoration:none;"> PkANN - I. Non-linear matter power spectrum interpolation through artificial neural networks</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Cosmology-ML-Papers/blob/master/col(9).pdf" style="text-decoration:none;">A First Look at creating mock catalogs with machine learning techniques</a></li>
   
    
